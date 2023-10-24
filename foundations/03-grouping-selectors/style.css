@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.x1 {
+    background-color: black;
+    color: white;
+}
+
+.x2 {
+    background-color: yellow;
+}
