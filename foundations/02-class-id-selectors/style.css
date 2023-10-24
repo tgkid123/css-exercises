@@ -1,0 +1,19 @@
+  p {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  .dwojka {
+color: blue;
+font-size: 36px;
+  }
+
+  .czworka {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+  }
+
+  .trojka {
+    font-size: 24px;
+  }
